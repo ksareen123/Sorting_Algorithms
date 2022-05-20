@@ -1,2 +1,2 @@
 # School-Related-Projects
-This code will determine if an input is a numeric palindrome.
+This code lists three sorting algorithms to implement on a vector class.
